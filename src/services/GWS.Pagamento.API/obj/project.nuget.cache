@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "N1uuIsKiUCJaNgYJEiyehfQVfqlRbpE9xL0yseO0ythUDo1vOt3lKgDqvlk8zJiEzR0VeU5n0hP/Yv+ir9Vm0g==",
+  "success": true,
+  "projectFilePath": "D:\\ADM\\Projetos_Dotnet_Core\\GeekWorldStore\\src\\services\\GWS.Pagamento.API\\GWS.Pagamento.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\atulioli\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}

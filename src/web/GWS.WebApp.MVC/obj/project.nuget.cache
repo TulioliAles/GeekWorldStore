@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "7vzy+Vj1RXc1wxuHcDkv9/6OREd0TbX9kY/Z0Zg1mxKOqQs7CbKAAzFDOQDFqPQeblRLXADhJoGnyv6uPuQUfQ==",
+  "success": true,
+  "projectFilePath": "D:\\ADM\\Projetos_Dotnet_Core\\GeekWorldStore\\src\\web\\GWS.WebApp.MVC\\GWS.WebApp.MVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\atulioli\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\3.1.18\\microsoft.aspnetcore.mvc.razor.extensions.3.1.18.nupkg.sha512",
+    "C:\\Users\\atulioli\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\3.1.18\\microsoft.aspnetcore.mvc.razor.runtimecompilation.3.1.18.nupkg.sha512",
+    "C:\\Users\\atulioli\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\3.1.18\\microsoft.aspnetcore.razor.language.3.1.18.nupkg.sha512",
+    "C:\\Users\\atulioli\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\2.9.3\\microsoft.codeanalysis.analyzers.2.9.3.nupkg.sha512",
+    "C:\\Users\\atulioli\\.nuget\\packages\\microsoft.codeanalysis.common\\3.3.0\\microsoft.codeanalysis.common.3.3.0.nupkg.sha512",
+    "C:\\Users\\atulioli\\.nuget\\packages\\microsoft.codeanalysis.csharp\\3.3.0\\microsoft.codeanalysis.csharp.3.3.0.nupkg.sha512",
+    "C:\\Users\\atulioli\\.nuget\\packages\\microsoft.codeanalysis.razor\\3.1.18\\microsoft.codeanalysis.razor.3.1.18.nupkg.sha512",
+    "C:\\Users\\atulioli\\.nuget\\packages\\microsoft.extensions.dependencymodel\\3.1.6\\microsoft.extensions.dependencymodel.3.1.6.nupkg.sha512",
+    "C:\\Users\\atulioli\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
+    "C:\\Users\\atulioli\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
+    "C:\\Users\\atulioli\\.nuget\\packages\\system.collections.immutable\\1.5.0\\system.collections.immutable.1.5.0.nupkg.sha512",
+    "C:\\Users\\atulioli\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\atulioli\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512",
+    "C:\\Users\\atulioli\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\atulioli\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512",
+    "C:\\Users\\atulioli\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
+    "C:\\Users\\atulioli\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.3\\system.threading.tasks.extensions.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

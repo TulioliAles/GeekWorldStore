@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rXFzhEPrghtLDvUCTs7Q3bXjkjlifJg6RR5N3CfQJWfWQH0vxTOUpI741zz1YvZdrnzVCDcQzgxn6m0joC+UBA==",
+  "success": true,
+  "projectFilePath": "D:\\ADM\\Projetos_Dotnet_Core\\GeekWorldStore\\src\\services\\GWS.Catalogo.API\\GWS.Catalogo.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\atulioli\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
