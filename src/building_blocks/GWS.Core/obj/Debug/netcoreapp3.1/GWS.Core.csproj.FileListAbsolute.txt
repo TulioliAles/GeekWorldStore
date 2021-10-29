@@ -1,0 +1,9 @@
+D:\ADM\Projetos_Dotnet_Core\GeekWorldStore\src\building_blocks\GWS.Core\bin\Debug\netcoreapp3.1\GWS.Core.deps.json
+D:\ADM\Projetos_Dotnet_Core\GeekWorldStore\src\building_blocks\GWS.Core\bin\Debug\netcoreapp3.1\GWS.Core.dll
+D:\ADM\Projetos_Dotnet_Core\GeekWorldStore\src\building_blocks\GWS.Core\bin\Debug\netcoreapp3.1\GWS.Core.pdb
+D:\ADM\Projetos_Dotnet_Core\GeekWorldStore\src\building_blocks\GWS.Core\obj\Debug\netcoreapp3.1\GWS.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\ADM\Projetos_Dotnet_Core\GeekWorldStore\src\building_blocks\GWS.Core\obj\Debug\netcoreapp3.1\GWS.Core.AssemblyInfoInputs.cache
+D:\ADM\Projetos_Dotnet_Core\GeekWorldStore\src\building_blocks\GWS.Core\obj\Debug\netcoreapp3.1\GWS.Core.AssemblyInfo.cs
+D:\ADM\Projetos_Dotnet_Core\GeekWorldStore\src\building_blocks\GWS.Core\obj\Debug\netcoreapp3.1\GWS.Core.csproj.CoreCompileInputs.cache
+D:\ADM\Projetos_Dotnet_Core\GeekWorldStore\src\building_blocks\GWS.Core\obj\Debug\netcoreapp3.1\GWS.Core.dll
+D:\ADM\Projetos_Dotnet_Core\GeekWorldStore\src\building_blocks\GWS.Core\obj\Debug\netcoreapp3.1\GWS.Core.pdb
