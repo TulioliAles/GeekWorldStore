@@ -7,3 +7,4 @@ D:\ADM\Projetos_Dotnet_Core\GeekWorldStore\src\building_blocks\GWS.Core\obj\Debu
 D:\ADM\Projetos_Dotnet_Core\GeekWorldStore\src\building_blocks\GWS.Core\obj\Debug\netcoreapp3.1\GWS.Core.csproj.CoreCompileInputs.cache
 D:\ADM\Projetos_Dotnet_Core\GeekWorldStore\src\building_blocks\GWS.Core\obj\Debug\netcoreapp3.1\GWS.Core.dll
 D:\ADM\Projetos_Dotnet_Core\GeekWorldStore\src\building_blocks\GWS.Core\obj\Debug\netcoreapp3.1\GWS.Core.pdb
+D:\ADM\Projetos_Dotnet_Core\GeekWorldStore\src\building_blocks\GWS.Core\obj\Debug\netcoreapp3.1\GWS.Core.csproj.AssemblyReference.cache
