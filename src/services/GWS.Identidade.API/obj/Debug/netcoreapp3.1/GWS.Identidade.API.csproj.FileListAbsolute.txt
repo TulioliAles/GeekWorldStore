@@ -70,3 +70,8 @@ D:\ADM\Projetos_Dotnet_Core\GeekWorldStore\src\services\GWS.Identidade.API\obj\D
 D:\ADM\Projetos_Dotnet_Core\GeekWorldStore\src\services\GWS.Identidade.API\obj\Debug\netcoreapp3.1\GWS.Identidade.API.dll
 D:\ADM\Projetos_Dotnet_Core\GeekWorldStore\src\services\GWS.Identidade.API\obj\Debug\netcoreapp3.1\GWS.Identidade.API.pdb
 D:\ADM\Projetos_Dotnet_Core\GeekWorldStore\src\services\GWS.Identidade.API\obj\Debug\netcoreapp3.1\GWS.Identidade.API.genruntimeconfig.cache
+D:\ADM\Projetos_Dotnet_Core\GeekWorldStore\src\services\GWS.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\ADM\Projetos_Dotnet_Core\GeekWorldStore\src\services\GWS.Identidade.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\ADM\Projetos_Dotnet_Core\GeekWorldStore\src\services\GWS.Identidade.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ADM\Projetos_Dotnet_Core\GeekWorldStore\src\services\GWS.Identidade.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ADM\Projetos_Dotnet_Core\GeekWorldStore\src\services\GWS.Identidade.API\obj\Debug\netcoreapp3.1\GWS.Identidade.API.csproj.CopyComplete

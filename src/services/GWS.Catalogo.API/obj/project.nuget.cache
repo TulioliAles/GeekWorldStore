@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "rXFzhEPrghtLDvUCTs7Q3bXjkjlifJg6RR5N3CfQJWfWQH0vxTOUpI741zz1YvZdrnzVCDcQzgxn6m0joC+UBA==",
+  "dgSpecHash": "2NiItvd7icaaZDpNHFa+6JaMTvs7iKEovJ5v43HnF/QxWlG6wzHFlQbWu9OuImsYA0OD0oVIDq6emXqKba2zGg==",
   "success": true,
   "projectFilePath": "D:\\ADM\\Projetos_Dotnet_Core\\GeekWorldStore\\src\\services\\GWS.Catalogo.API\\GWS.Catalogo.API.csproj",
   "expectedPackageFiles": [

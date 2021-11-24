@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "h8kqhaGmRmWmd+udzgUS6Serse8XiWxp8r7QrSwHW7AElbYcqdYfEYvZ0ZN7GGl0bUrABI8I0n5T1tilXUk7ZQ==",
+  "dgSpecHash": "c99OdvqxJL5V/wqz1eiGKS+bW1Ux9bq56vuNjFOSYKsEosjLBqt6c853OX9PntNifQkQtrR2VJXe8kEBoP8w/A==",
   "success": true,
   "projectFilePath": "D:\\ADM\\Projetos_Dotnet_Core\\GeekWorldStore\\src\\services\\GWS.Carrinho.API\\GWS.Carrinho.API.csproj",
   "expectedPackageFiles": [

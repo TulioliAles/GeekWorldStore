@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "8BVMpd3Lc+AEWtV3e8U7yK1JUEi0HcHLcj2thojtu6CY68xqbcnWKSYrpNozgC8FIjsqoBoaC9GM2+zGHpwnvw==",
+  "dgSpecHash": "ZgnWQ2rEemyBQhZvYUQ0MFGQtHy0Dw8+BZX0kantEJR+cvGszkGlDMLtOwE5X8nbZpKcqLBdweYfM2AXaVN3Hw==",
   "success": true,
   "projectFilePath": "D:\\ADM\\Projetos_Dotnet_Core\\GeekWorldStore\\src\\services\\GWS.Pedido.API\\GWS.Pedido.API.csproj",
   "expectedPackageFiles": [
